@@ -294,7 +294,7 @@ main {
     font-size: 8vh;
   }
 
-  main#contact .boxes .box {
+  main#contact .boxes div {
     font-size: 2.5vh;
   }
   .projects {
